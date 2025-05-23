@@ -43,7 +43,7 @@ export default function HeroSection() {
               </div>
               <Image
                 className="-z-10 order-first ml-auto h-56 w-full object-cover invert sm:h-96 lg:absolute lg:inset-0 lg:-right-0 lg:-top-40 lg:order-last lg:h-max lg:w-2/5 lg:object-contain dark:mix-blend-lighten dark:invert-0"
-                src="https://i.namu.wiki/i/Oyzo0ZoSbNyx4yRMSitZ-0Ptr98IqJc3_6G12iuaSlaqIuveSYWi5umSIJ5pMauPDZxUtJsWlyBu2WKNTqxo5A.webp"
+                src="https://static.wikia.nocookie.net/valorant-lore/images/d/dc/Omen_-_Full_body.png/revision/latest?cb=20241030123240"
                 alt="Abstract Object"
                 height="4000"
                 width="3000"
