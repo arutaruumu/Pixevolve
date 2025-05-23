@@ -10,6 +10,8 @@ export default function CallToAction() {
           Join the PIXEVOLVE community
           </h2>
           <p className="mt-4">Get early access to free packs, dev updates, and exclusive tips!</p>
+          <p className="mt-4">Nada Satya M [22.61.0240]</p>
+          <p className="mt-4">Stephen Darma Putra Ghebu [22.61.0238]</p>
 
           <div className="mt-12 flex flex-wrap justify-center gap-4">
             <Button asChild size="lg">
