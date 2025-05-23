@@ -20,6 +20,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "image.ggwp.id",
       },
+      {
+        protocol: "https",
+        hostname: "static.wikia.nocookie.net",
+      },
     ],
   },
 };
