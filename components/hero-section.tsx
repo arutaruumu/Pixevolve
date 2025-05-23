@@ -16,11 +16,10 @@ export default function HeroSection() {
             <div className="relative mx-auto flex max-w-6xl flex-col px-6 lg:block">
               <div className="mx-auto max-w-lg text-center lg:ml-0 lg:w-1/2 lg:text-left">
                 <h1 className="mt-8 max-w-2xl text-balance text-5xl font-medium md:text-6xl lg:mt-16 xl:text-7xl">
-                  Ship 10x Faster with NS
+                PIXEVOLVE – Game Asset Studio
                 </h1>
                 <p className="mt-8 max-w-2xl text-pretty text-lg">
-                  Highly customizable components for building modern websites
-                  and applications that look and feel the way you mean it.
+                Bring Your Game World to Life [22.61.0240] [22.61.0238]
                 </p>
 
                 <div className="mt-12 flex flex-col items-center justify-center gap-2 sm:flex-row lg:justify-start">
@@ -43,8 +42,8 @@ export default function HeroSection() {
                 </div>
               </div>
               <Image
-                className="-z-10 order-first ml-auto h-56 w-full object-cover invert sm:h-96 lg:absolute lg:inset-0 lg:-right-20 lg:-top-96 lg:order-last lg:h-max lg:w-2/3 lg:object-contain dark:mix-blend-lighten dark:invert-0"
-                src="https://res.cloudinary.com/dg4jhba5c/image/upload/v1741605150/abstract-bg_wq4f8w.jpg"
+                className="-z-10 order-first ml-auto h-56 w-full object-cover invert sm:h-96 lg:absolute lg:inset-0 lg:-right-0 lg:-top-40 lg:order-last lg:h-max lg:w-2/5 lg:object-contain dark:mix-blend-lighten dark:invert-0"
+                src="https://i.namu.wiki/i/Oyzo0ZoSbNyx4yRMSitZ-0Ptr98IqJc3_6G12iuaSlaqIuveSYWi5umSIJ5pMauPDZxUtJsWlyBu2WKNTqxo5A.webp"
                 alt="Abstract Object"
                 height="4000"
                 width="3000"
@@ -63,8 +62,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/nvidia.svg"
-                      alt="Nvidia Logo"
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_387zpt0mRgeV4QqSwYNduIwIOSKO3Jd5w&s"
+                      alt="Clip Studio Paint"
                       height="20"
                       width="auto"
                     />
@@ -73,8 +72,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-4 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/column.svg"
-                      alt="Column Logo"
+                      src="https://www.aseprite.org/assets/images/header-logo.png"
+                      alt="Aseprite"
                       height="16"
                       width="auto"
                     />
@@ -82,8 +81,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-4 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/github.svg"
-                      alt="GitHub Logo"
+                      src="https://help.live2d.com/wp-content/themes/sango-wpml/images/logo_cubism_f.png"
+                      alt="Live2D Cubism"
                       height="16"
                       width="auto"
                     />
@@ -91,8 +90,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/nike.svg"
-                      alt="Nike Logo"
+                      src="https://godotengine.org/assets/press/logo_large_monochrome_light.svg"
+                      alt="Godot Engine"
                       height="20"
                       width="auto"
                     />
@@ -100,8 +99,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-5 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/lemonsqueezy.svg"
-                      alt="Lemon Squeezy Logo"
+                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png"
+                      alt="Unity"
                       height="20"
                       width="auto"
                     />
@@ -118,8 +117,8 @@ export default function HeroSection() {
                   <div className="flex">
                     <img
                       className="mx-auto h-7 w-fit dark:invert"
-                      src="https://html.tailus.io/blocks/customers/lilly.svg"
-                      alt="Lilly Logo"
+                      src="https://files.klob.id/public/mco01/jptnnwb8/logo.png"
+                      alt="Agate"
                       height="28"
                       width="auto"
                     />

@@ -5,8 +5,20 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "res.cloudinary.com",
         protocol: "https",
+        hostname: "res.cloudinary.com",
+      },
+      {
+        protocol: "https",
+        hostname: "i.namu.wiki",
+      },
+      {
+        protocol: "https",
+        hostname: "www.gimbot.com",
+      },
+      {
+        protocol: "https",
+        hostname: "image.ggwp.id",
       },
     ],
   },

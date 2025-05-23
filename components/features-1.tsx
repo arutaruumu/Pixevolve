@@ -8,11 +8,10 @@ export default function Features() {
       <div className="@container mx-auto max-w-5xl px-6">
         <div className="text-center">
           <h2 className="text-balance text-4xl font-semibold lg:text-5xl">
-            Built to cover your needs
+            Craft. Customize. Conquer.
           </h2>
           <p className="mt-4">
-            Libero sapiente aliquam quibusdam aspernatur, praesentium iusto
-            repellendus.
+            PIXEVOLVE empowers indie developers with high-quality, ready-to-use game assets tailored for unique worlds and unforgettable experiences.
           </p>
         </div>
         <div className="@min-4xl:max-w-full @min-4xl:grid-cols-3 mx-auto mt-8 grid max-w-sm gap-6 *:text-center md:mt-16">
@@ -22,13 +21,12 @@ export default function Features() {
                 <Zap className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">Customizable</h3>
+              <h3 className="mt-6 font-medium">Craft</h3>
             </CardHeader>
 
             <CardContent>
               <p className="text-sm">
-                Extensive customization options, allowing you to tailor every
-                aspect to meet your specific needs.
+                Transform raw ideas into compelling visuals. PIXEVOLVE gives you the tools to start strong — from characters to UI, everything handcrafted to match your theme.
               </p>
             </CardContent>
           </Card>
@@ -39,13 +37,12 @@ export default function Features() {
                 <Settings2 className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">You have full control</h3>
+              <h3 className="mt-6 font-medium">Customize</h3>
             </CardHeader>
 
             <CardContent>
               <p className="mt-3 text-sm">
-                From design elements to functionality, you have complete control
-                to create a unique and personalized experience.
+              No one-size-fits-all. Your game is unique, and your assets should be too. Mix, match, and modify with flexible packs and custom requests.
               </p>
             </CardContent>
           </Card>
@@ -56,13 +53,12 @@ export default function Features() {
                 <Sparkles className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">Powered By AI</h3>
+              <h3 className="mt-6 font-medium">Conquer</h3>
             </CardHeader>
 
             <CardContent>
               <p className="mt-3 text-sm">
-                Elements to functionality, you have complete control to create a
-                unique experience.
+              Leave your mark. With polished assets and professional presentation, you’re ready to publish, pitch, or playtest like a pro.
               </p>
             </CardContent>
           </Card>
